@@ -27,9 +27,7 @@ function draw() {
 				pos[num+i] = createVector(width/2, height/2);
 				vel[num+i] = createVector(0, 0);
 			}
-			num += 10;
-		} else if (frameRate() < 50) {
-			num -= 10;
+		
 		}
 	}
 	
