@@ -1,4 +1,4 @@
-let num = 7500;
+let num = 5000;
 let pos = [];
 let vel = [];
 
